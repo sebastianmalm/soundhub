@@ -118,6 +118,8 @@ nav {
 .menu-icon.active span:after {
   transform: rotate(-135deg);
 }
+
+
 /* Menu */
 
 .overlay-menu {
